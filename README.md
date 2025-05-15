@@ -40,10 +40,10 @@ SOURCE path/to/answers.sql;
 
 The Entity Relationship Diagram (ERD) visualizes the database structure and relationships among all tables.
 
-📎 **Link to ERD**:
-![Clinic Booking ERD](ERD.png)
+📎 **ERD**:
+![image alt](https://github.com/254Manuell/PLP-Week-8-MySQL-Database/blob/e3e43c3c8929ea8e6b69851076598a5a2bb295cf/ERD.png)
 
-> The ERD shows primary keys, foreign keys, and all relationships between tables, generated via PlantUML.
+> The ERD shows primary keys, foreign keys, and all relationships between tables.
 
 ---
 
