@@ -1,5 +1,6 @@
+--QUESTION 1
 
--- Create fresh database
+-- Create database
 CREATE DATABASE clinic_booking_system;
 USE clinic_booking_system;
 
